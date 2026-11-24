@@ -1,13 +1,25 @@
 {
- "versiune": "2.0",
- "dataVersiune": "24.11.2026",
- "data": "24.11.2026",
- "mesaje": [
-  {
-   "data": "24.11.2026",
-   "titlu": "Clara este activă",
-   "text": "Programul Dosar GDPR + NIS2 este actualizat la 24.11.2026 (GDPR și Legea 190/2018; OUG 155/2024 aprobată prin Legea 124/2025; Ordinele DNSC 1/2025 și 2/2025). Clara verifică săptămânal schimbările legislative; noutățile importante apar aici.",
-   "important": false
-  }
- ]
+  "versiune": "2.1",
+  "dataVersiune": "24.11.2026",
+  "data": "24.11.2026",
+  "mesaje": [
+    {
+      "data": "24.11.2026",
+      "titlu": "Versiune nouă: 2.1",
+      "text": "Versiunea 2.1 a programului Dosar GDPR + NIS2 adaugă: inventarul IT (echipamente, programe și licențe, conturi online), calendarul de termene, registrul cererilor și al instruirilor, acordul pentru poze și filmări, formularul de cerere pentru persoane, procesul-verbal de distrugere a documentelor, DPIA și LIA, fișa de raportare a incidentelor către DNSC. Cereți versiunea nouă gratuit; înainte de instalare, faceți backup.",
+      "important": true
+    },
+    {
+      "data": "22.11.2026",
+      "titlu": "Legea 219/2026 – cookie-uri pe site",
+      "text": "A intrat în vigoare Legea nr. 219/2026, care modifică Legea 506/2004. Bannerul de cookie-uri trebuie să aibă butonul de refuz la fel de vizibil ca acceptarea, fără bife implicite, cu retragere ușoară a acordului și păstrarea dovezii acordului. Termen de adaptare: 22.03.2027. Cereți firmei care vă administrează site-ul să verifice.",
+      "important": true
+    },
+    {
+      "data": "24.11.2026",
+      "titlu": "Clara este activă",
+      "text": "Clara verifică săptămânal schimbările legislative GDPR și NIS2; noutățile importante apar aici.",
+      "important": false
+    }
+  ]
 }
