@@ -1,8 +1,14 @@
 {
-  "versiune": "2.1",
-  "dataVersiune": "24.11.2026",
-  "data": "24.11.2026",
+  "versiune": "2.2",
+  "dataVersiune": "25.11.2026",
+  "data": "25.11.2026",
   "mesaje": [
+    {
+      "data": "25.11.2026",
+      "titlu": "Document nou: Politica privind protecția datelor cu caracter personal",
+      "text": "Regulile de protecție a datelor erau deja cuprinse în dosar: în Ghidul firmei (doc. 01), în notele de informare (doc. 06–07) și în registre. Unii inspectori cer însă, la control, un document separat cu titlul exact „Politica privind protecția datelor cu caracter personal”. Versiunea 2.2 îl adaugă, completat cu datele firmei. Cereți-ne actualizarea gratuită; documentul trebuie doar semnat de administrator și adus la cunoștința angajaților.",
+      "important": true
+    },
     {
       "data": "24.11.2026",
       "titlu": "Versiune nouă: 2.1",
