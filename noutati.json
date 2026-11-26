@@ -1,8 +1,14 @@
 {
-  "versiune": "2.2",
-  "dataVersiune": "25.11.2026",
-  "data": "25.11.2026",
+  "versiune": "2.5",
+  "dataVersiune": "26.11.2026",
+  "data": "26.11.2026",
   "mesaje": [
+    {
+      "data": "26.11.2026",
+      "titlu": "Versiunea 2.5: firmele noi primesc și ele actualizări",
+      "text": "Când adăugați o firmă nouă în program, trimiteți-ne datele ei cu butonul „📤 Trimite pentru actualizări” din „Firmele mele”, ca să primească și ea noutățile despre lege. Licența acoperă până la 10 firme; dacă aveți mai multe, o puteți extinde din pagina „Activare”.",
+      "important": true
+    },
     {
       "data": "25.11.2026",
       "titlu": "Document nou: Politica privind protecția datelor cu caracter personal",
